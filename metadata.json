@@ -1,0 +1,5 @@
+{
+  "name": "AI Adaptive Testing System",
+  "description": "An intelligent, personalized testing system that helps users identify knowledge gaps and provides learning recommendations through an adaptive question engine.",
+  "requestFramePermissions": []
+}
